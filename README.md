@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Luiz Henrique Naspolini</h1>
 <h3 align="center">Sou um desenvolvedor full-stack de Santa Catarina, Brasil</h3>
 
-- 🔭 Atualmente estou trabalhando no **ECC - Empréstimos**
+- 🔭 Atualmente estou trabalhando em um freela feito com Nodejs no backend e React
 
 - 🌱 Estou atualmente estudando **React e Java Spring**
 
