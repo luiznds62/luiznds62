@@ -1,13 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Luiz Henrique Naspolini</h1>
 <h3 align="center">Sou um desenvolvedor full-stack de Santa Catarina, Brasil</h3>
 
-- 🔭 Atualmente estou trabalhando em um freela feito com Nodejs no backend e React
-
-- 🌱 Estou atualmente estudando **React e Java Spring**
-
 - 📫 Pode entrar em contato com **luiznds@hotmail.com**
-
-- ⚡ Fun fact: **Tenho um botão de desligar**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiznds62&show_icons=true&locale=en" alt="luiznds62" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiznds62&" alt="luiznds62" /></p>
